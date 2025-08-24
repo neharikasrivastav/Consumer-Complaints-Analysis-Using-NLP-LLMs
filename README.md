@@ -25,9 +25,9 @@ This project analyzes over 2 million consumer complaints filed with the CFPB (Co
 📂 **Repo Contents**
 - `DSPM_HW3_nneharik.ipynb` → Core notebook with preprocessing, modeling, and evaluation  
 - `data/` → (sample datasets or links to CFPB open dataset)  
-- `results/` → output visualizations and topic summaries  
 
----
+
+
 
 🔗 **Links**
 - [CFPB Consumer Complaint Database](https://www.consumerfinance.gov/data-research/consumer-complaints/)  
